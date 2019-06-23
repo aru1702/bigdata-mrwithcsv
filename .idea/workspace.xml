@@ -106,6 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/input" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
@@ -136,7 +137,7 @@
       </envs>
       <option name="MAIN_CLASS_NAME" value="SalesCountryDriver" />
       <module name="bigdata-mrwithcsv" />
-      <option name="PROGRAM_PARAMETERS" value="C:\bigdata\bigdata-mrwithcsv\input\test.csv C:\bigdata\bigdata-mrwithcsv\output" />
+      <option name="PROGRAM_PARAMETERS" value="C:\bigdata\bigdata-mrwithcsv\input\EnterpriseSurvey2017.csv C:\bigdata\bigdata-mrwithcsv\output" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
